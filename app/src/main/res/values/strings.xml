@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calculator-MVVM</string>
+
+    <string name="check_amount_hint">Check Amount</string>
+    <string name="check_tip">Tip:</string>
+    <string name="check_total">Total:</string>
+    <string name="submit">Submit</string>
+</resources>
